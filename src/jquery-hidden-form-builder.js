@@ -1,6 +1,6 @@
 /*!
  * jQuery hidden form builder plugin 0.1.0
- * https://github.com/ledlogic/jquery-post
+ * https://github.com/ledlogic/jquery-hidden-form-builder
  *
  * Copyright 2015 Jeff Conrad
  * Released under the MIT license
